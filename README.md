@@ -17,7 +17,7 @@ The purpose of this assignment is to learn about a new programming language that
 
 
 ## Language Overview
-	Prolog is a fifth-generation high-level programming language. Prolog is a distinctive language based on the logic programming paradigm. Prolog can be implemented as both compiled or interpreted, however, most of the common Prolog system usually offers an interpreted environment. Prolog is a declarative language, which I think is what makes it an even higher level of language compared to Python, where you have to tell them what to do step by step. However, in Prolog, you can pretty much just tell the program what are the end goals and some rules. It is able to solve the problem. 
+Prolog is a fifth-generation high-level programming language. Prolog is a distinctive language based on the logic programming paradigm. Prolog can be implemented as both compiled or interpreted, however, most of the common Prolog system usually offers an interpreted environment. Prolog is a declarative language, which I think is what makes it an even higher level of language compared to Python, where you have to tell them what to do step by step. However, in Prolog, you can pretty much just tell the program what are the end goals and some rules. It is able to solve the problem. 
 
 
 ## Program Description 
