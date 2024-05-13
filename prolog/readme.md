@@ -4,11 +4,11 @@ Hanoi Slover
 
 # Project - *Hanoi Slover*
 
-**Hanoi Slover** is use to get the solution for the Hanoi game.
+**Hanoi Slover** is used to get the solution for the Hanoi game.
 
 Submitted by: **Zhuohao Tan**
 
-Time spent: **2** hours spent in total
+Time spent: **5** hours spent in total
 
 
 ## Video Walkthrough
