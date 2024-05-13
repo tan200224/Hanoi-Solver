@@ -1,7 +1,5 @@
 # Hanoi-Solver
 
-Hanoi Slover 
-
 # Project - *Hanoi Slover*
 
 **Hanoi Slover** is used to get the solution for the Hanoi game.
